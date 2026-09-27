@@ -2,8 +2,8 @@
 ## Supported Boards & Devices
 The RNode Firmware supports the following boards:
 
-- Handheld v2.x RNodes from [unsigned.io](https://unsigned.io/shop/product/handheld-rnode)
-- Original v1.x RNodes from [unsigned.io](https://unsigned.io/shop/product/rnode)
+- Handheld v2.x RNodes from [unsigned.io](https://unsigned.io/shop)
+- Original v1.x RNodes from [unsigned.io](https://unsigned.io/shop)
 - LilyGO T-Beam v1.1 devices
 - LilyGO LoRa32 v2.0 devices
 - LilyGO LoRa32 v2.1 devices

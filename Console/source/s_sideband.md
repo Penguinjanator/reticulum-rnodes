@@ -10,4 +10,3 @@ The installation files for the Sideband program is too large to be included on t
 
 - The [Sideband page](https://unsigned.io/sideband/) on [unsigned.io](https://unsigned.io/)
 - The [GitHub release page for Sideband](https://github.com/markqvist/Sideband/releases/latest)
-- The [IzzyOnDroid repository for F-Droid](https://android.izzysoft.de/repo/apk/io.unsigned.sideband)
